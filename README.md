@@ -1,3 +1,11 @@
+> **Archived (2026-09-22).** Bloom Credit no longer uses this repository.
+>
+> Last non-maintenance commit: 2024-06-06. Recheck found no contribution after 2025-09-22. Platform archived it ([sc-32678](https://app.shortcut.com/bloom-credit/story/32678)).
+>
+> Do not add new work here. If you still need this code, unarchive the repository and comment on sc-32678.
+
+---
+
 # GitHub Action to Sync S3 Bucket 🔄
 
 This simple action uses the [vanilla AWS CLI](https://docs.aws.amazon.com/cli/index.html) to sync a directory (either from your repository or generated during your workflow) with a remote S3 bucket.
